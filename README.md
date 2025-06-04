@@ -15,8 +15,8 @@ This is a PDF question-answering assistant built using Streamlit, Ollama (DeepSe
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/pdf-assistant.git
-cd pdf-assistant
+https://github.com/Balaji1472/deepseek-pdf-assistant.git
+cd deepseek-pdf-assistant
 ```
 
 2. Install dependencies:
